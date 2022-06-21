@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 400px;
+  margin-left :auto;
+  margin-right:auto;
+  align-items: center;
+}
+table td {
+  border: 1px solid rgb(105, 140, 146);
+  width: 100px;
+  height: 100px;
+  background-color:rgb(156, 199, 202);
+}
+
